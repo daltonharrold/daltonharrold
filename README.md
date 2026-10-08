@@ -20,4 +20,3 @@ I'm a computer science student at **Northeastern University (Khoury College)**. 
 
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=daltonharrold&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=daltonharrold&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=daltonharrold&layout=compact&langs_count=8&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=daltonharrold&layout=compact&langs_count=8&hide_values=true&theme=dark_github)
